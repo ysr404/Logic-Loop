@@ -1,0 +1,7 @@
+{
+  "name": "Copy of GraminBus Connect",
+  "description": "A crowdsourced rural bus tracking system providing real-time location, seat availability, and fair ticketing info for communities with limited infrastructure.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
